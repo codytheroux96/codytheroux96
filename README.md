@@ -10,7 +10,7 @@ Full stack software developer who is currently learning and utilizing JavaScript
 * 🖥️  See my portfolio at [https://codytheroux96.github.io/javascript-portfolio/](http://codytheroux96.github.io/javascript-portfolio/)
 * ✉️  You can contact me at [cody.theroux3@gmail.com](mailto:cody.theroux3@gmail.com)
 * 🧠  I'm currently learning ReactJS and I'm looking forward to learning Java afterwords!
-* ⚡  Check out my resume here: https://docs.google.com/document/d/1bP8hGQy5zi5LkXxVyykXGuNNnCIaiSnIn5-mD0PZi-s/edit?usp=sharing
+* ⚡  Check out [my resume](https://docs.google.com/document/d/1bP8hGQy5zi5LkXxVyykXGuNNnCIaiSnIn5-mD0PZi-s/edit?usp=sharing)
 
 ### Skills
 
