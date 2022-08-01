@@ -7,7 +7,7 @@ Full Stack Software Developer
 Full stack software developer who is currently learning and utilizing JavaScript and the MERN stack. I look forward to learning more technologies in my software developer journey and I have a passion and a vision to use my skills in web development to help contribute towards technologies that improve people's lives and make them easier.
 
 * 🌍  I'm based in Charlotte, North Carolina
-* 🖥️  See my portfolio at [https://codytheroux96.github.io/javascript-portfolio/](http://codytheroux96.github.io/javascript-portfolio/)
+* 🖥️  [Come view my portfolio!][https://codytheroux96.github.io/javascript-portfolio/](http://codytheroux96.github.io/javascript-portfolio/)
 * ✉️  You can contact me at [cody.theroux3@gmail.com](mailto:cody.theroux3@gmail.com)
 * 🧠  I'm currently learning ReactJS and I'm looking forward to learning Java afterwords!
 * ⚡  Check out [my resume!](https://docs.google.com/document/d/1bP8hGQy5zi5LkXxVyykXGuNNnCIaiSnIn5-mD0PZi-s/edit?usp=sharing)
