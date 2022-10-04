@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Developer
 -----------------------------
 
-Full stack software developer who is currently learning and utilizing JavaScript and the MERN stack. I look forward to learning more technologies in my software developer journey and I have a passion and a vision to use my skills in web development to help contribute towards technologies that improve people's lives and make them easier.
+Full stack software developer who is currently learning and utilizing Nest.js, TypeScript, Node.js and AWS. I look forward to learning more technologies in my software developer journey and I have a passion and a vision to use my skills in web development to help contribute towards technologies that improve people's lives and make them easier.
 
 * 🌍  I'm based in Charlotte, North Carolina
 * 🖥️  [View my portfolio here!](http://codytheroux96.github.io/javascript-portfolio/)
 * ✉️  You can contact me at [cody.theroux3@gmail.com](mailto:cody.theroux3@gmail.com)
-* 🧠  I'm currently learning ReactJS and I'm looking forward to learning Java afterwords!
+* 🧠  I'm currently learning Nest.js and AWS!
 * ⚡  Check out [my resume!](https://docs.google.com/document/d/1rtQ1JFCsghZ0GvsdPQ8VLt6LsnF_1iQMnMxMtupZQxs/edit?usp=sharing)
 
 ### Skills
