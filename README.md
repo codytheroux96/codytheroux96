@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Developer
 -----------------------------
 
-Full stack software developer who is currently learning and utilizing Nest.js, TypeScript, Node.js and AWS. I look forward to learning more technologies in my software developer journey and I have a passion and a vision to use my skills in web development to help contribute towards technologies that improve people's lives and make them easier.
+Full stack software developer who is currently utilizing Nest.js, TypeScript, Node.js and AWS. I look forward to learning more technologies in my software developer journey and I have a passion and a vision to use my skills in web development to help contribute towards technologies that improve people's lives and make them easier.
 
 * 🌍  I'm based in Charlotte, North Carolina
 * 🖥️  [View my portfolio here!](http://codytheroux96.github.io/javascript-portfolio/)
