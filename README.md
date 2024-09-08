@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codytheroux96&label=Profile%20views&color=0e75b6&style=plastic" alt="codytheroux96" /> </p>
 
-- 🌱 I’m currently learning **Elixir and ALWAYS building in Go**
+I’m currently learning **Elixir and ALWAYS building in Go**
 
 <p align="left">
 </p>
