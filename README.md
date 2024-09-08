@@ -1,8 +1,6 @@
 <h1 align="center">Welcome!</h1>
 <h3 align="center">I'm a developer who loves Go. I enjoy building scalable and performant backend systems, CLI applications, and dev tools. I’m currently dabbling in Elixir and ALWAYS building in Go</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codytheroux96&label=Profile%20views&color=0e75b6&style=plastic" alt="codytheroux96" /> </p>
-
 <p align="left">
 </p>
 
