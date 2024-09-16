@@ -1,5 +1,5 @@
 <h1 align="center">Welcome!</h1>
-<h3 align="center">I'm a developer who loves Go. I enjoy building scalable and performant backend systems, CLI applications, and dev tools. I’m currently dabbling in Elixir and ALWAYS building in Go</h3>
+<h3 align="center">I'm an engineer who loves Go. I enjoy building scalable and performant backend systems, CLI applications, and dev tools. I’m currently dabbling in Elixir and ALWAYS building in Go</h3>
 
 <p align="left">
 </p>
