@@ -21,5 +21,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codytheroux96&show_icons=true&theme=dark" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codytheroux96&theme=dark" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujstor&layout=compact&theme=dark&hide=jupyter%20notebook,jinja,html,hcl" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codytheroux96&layout=compact&theme=dark&hide=jupyter%20notebook,jinja,html,hcl" alt="Most Used Languages"/>
 </p>
