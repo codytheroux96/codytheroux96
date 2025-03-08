@@ -1,12 +1,9 @@
 <div align="center">### 👋Welcome!</div>
 
----
 
 ## <div align="center">🚀 About Me</div>
 <h3 align="center">I'm CT, a software engineer who enjoys writing Go and building CLI applications, developer tools, and backend applications</h3>
 
-
----
 
 <div align="center">## 🛠️ Languages and Tools</div>
 <p align="center">
@@ -15,7 +12,6 @@
   </a>
 </p>
 
----
 
 ## <div align="center">📊 GitHub Stats</div>
 <p align="center">
