@@ -1,7 +1,4 @@
 # <div align="center">👋 Welcome!</div>
-
-
-## <div align="center">🚀 About Me</div>
 <h3 align="center">I'm CT, a software engineer who enjoys writing Go and building CLI applications, developer tools, and backend applications</h3>
 
 
