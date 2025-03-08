@@ -1,12 +1,11 @@
-<div align="center">### 👋Welcome!</div>
+# <div align="center">👋 Welcome!</div>
 
 
 ## <div align="center">🚀 About Me</div>
 <h3 align="center">I'm CT, a software engineer who enjoys writing Go and building CLI applications, developer tools, and backend applications</h3>
 
 
-<div align="center">## 🛠️ Languages and Tools</div>
-<p align="center">
+## <div align="center">🛠️ Languages and Tools</div><p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,aws,docker,js,ts,nestjs,nodejs,py,mysql,postgres,git" />
   </a>
