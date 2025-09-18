@@ -5,7 +5,7 @@
 ## <div align="center">🛠️ Languages and Tools</div><p align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,aws,docker,js,ts,nestjs,nodejs,py,mysql,postgres,git" />
+    <img src="https://skillicons.dev/icons?i=go,rust,aws,docker,js,ts,nodejs,py" />
   </a>
 </p>
 
